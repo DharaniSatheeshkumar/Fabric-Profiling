@@ -1,5 +1,0 @@
-google-generativeai
-Pillow
-numpy
-streamlit>=1.28.0
-python-dotenv
